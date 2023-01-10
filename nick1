@@ -1,0 +1,37 @@
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",NICK JR
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146677?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="IE" tvg-logo="" group-title="Undefined",AFV Family
+https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" group-title="Comedy",AFV Espanol
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/K3n7ECn.png" group-title="Undefined",AFV Español
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/K3n7ECn.png" group-title="Undefined",AFV Family
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94" group-title="Comedy",AFV Family
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",AFV Family En Espanol
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1c6dcab5-c101-4b1d-8af3-d2f4d31ff511-small3x1_STIRR_Logo_0520_AFV_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Undefined",AFV
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Undefined",AFV Family
+http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/j6XPh2U.png" group-title="Undefined",AFV!,US | AFV!
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FailArmy
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Failarmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Failarmy International
+https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Failarmy International
+http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Failarmy International
+https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Travel XP
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Travel",Travel XP (720p)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
